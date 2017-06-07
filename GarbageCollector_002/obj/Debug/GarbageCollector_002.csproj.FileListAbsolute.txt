@@ -1,0 +1,5 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector_002\bin\Debug\GarbageCollector_002.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector_002\bin\Debug\GarbageCollector_002.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector_002\bin\Debug\GarbageCollector_002.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector_002\obj\Debug\GarbageCollector_002.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector_002\obj\Debug\GarbageCollector_002.pdb

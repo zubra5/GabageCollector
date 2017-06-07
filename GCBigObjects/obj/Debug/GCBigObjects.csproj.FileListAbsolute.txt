@@ -1,0 +1,6 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCBigObjects\bin\Debug\GCBigObjects.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCBigObjects\bin\Debug\GCBigObjects.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCBigObjects\bin\Debug\GCBigObjects.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCBigObjects\obj\Debug\GCBigObjects.csprojResolveAssemblyReference.cache
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCBigObjects\obj\Debug\GCBigObjects.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCBigObjects\obj\Debug\GCBigObjects.pdb

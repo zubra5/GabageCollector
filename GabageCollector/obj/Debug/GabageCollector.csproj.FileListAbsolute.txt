@@ -1,0 +1,6 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabageCollector\bin\Debug\GabageCollector.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabageCollector\bin\Debug\GabageCollector.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabageCollector\bin\Debug\GabageCollector.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabageCollector\obj\Debug\GabageCollector.csprojResolveAssemblyReference.cache
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabageCollector\obj\Debug\GabageCollector.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabageCollector\obj\Debug\GabageCollector.pdb

@@ -1,0 +1,5 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\Resurrection\bin\Debug\Resurrection.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\Resurrection\bin\Debug\Resurrection.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\Resurrection\bin\Debug\Resurrection.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\Resurrection\obj\Debug\Resurrection.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\Resurrection\obj\Debug\Resurrection.pdb

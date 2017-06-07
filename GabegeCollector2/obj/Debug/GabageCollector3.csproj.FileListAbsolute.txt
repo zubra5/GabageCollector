@@ -1,0 +1,5 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabegeCollector2\bin\Debug\GabegeCollector2.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabegeCollector2\bin\Debug\GabegeCollector2.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabegeCollector2\bin\Debug\GabegeCollector2.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabegeCollector2\obj\Debug\GabegeCollector2.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GabegeCollector2\obj\Debug\GabegeCollector2.pdb

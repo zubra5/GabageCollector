@@ -1,0 +1,6 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\DestructorTryCatch\bin\Debug\DestructorTryCatch.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\DestructorTryCatch\bin\Debug\DestructorTryCatch.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\DestructorTryCatch\bin\Debug\DestructorTryCatch.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\DestructorTryCatch\obj\Debug\DestructorTryCatch.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\DestructorTryCatch\obj\Debug\DestructorTryCatch.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\DestructorTryCatch\obj\Debug\DestructorTryCatch.csprojResolveAssemblyReference.cache

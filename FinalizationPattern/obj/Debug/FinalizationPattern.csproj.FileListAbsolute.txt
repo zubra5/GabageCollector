@@ -1,0 +1,5 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\FinalizationPattern\bin\Debug\FinalizationPattern.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\FinalizationPattern\bin\Debug\FinalizationPattern.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\FinalizationPattern\bin\Debug\FinalizationPattern.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\FinalizationPattern\obj\Debug\FinalizationPattern.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\FinalizationPattern\obj\Debug\FinalizationPattern.pdb

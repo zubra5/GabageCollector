@@ -1,0 +1,6 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCMemoryException\bin\Debug\GCMemoryException.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCMemoryException\bin\Debug\GCMemoryException.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCMemoryException\bin\Debug\GCMemoryException.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCMemoryException\obj\Debug\GCMemoryException.csprojResolveAssemblyReference.cache
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCMemoryException\obj\Debug\GCMemoryException.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GCMemoryException\obj\Debug\GCMemoryException.pdb

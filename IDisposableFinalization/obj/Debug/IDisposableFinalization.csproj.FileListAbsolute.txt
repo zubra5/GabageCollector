@@ -1,0 +1,5 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\IDisposableFinalization\bin\Debug\IDisposableFinalization.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\IDisposableFinalization\bin\Debug\IDisposableFinalization.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\IDisposableFinalization\bin\Debug\IDisposableFinalization.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\IDisposableFinalization\obj\Debug\IDisposableFinalization.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\IDisposableFinalization\obj\Debug\IDisposableFinalization.pdb

@@ -1,0 +1,6 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector\bin\Debug\GarbageCollector.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector\obj\Debug\GarbageCollector_001.csprojResolveAssemblyReference.cache
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector\obj\Debug\GarbageCollector.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\GabageCollector\GarbageCollector\obj\Debug\GarbageCollector.pdb
